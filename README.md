@@ -1,12 +1,17 @@
 # SQL_Movie_Industry_Analysis
+
 Overview
 This project provides an in-depth analysis of the movie industry, covering ratings, financial performance, streaming platforms, actors, production houses, and genre trends. The analysis is performed using SQL queries on movie datasets to extract key insights.
+
+
 
 Technologies Used
 SQL
 Python
 Tableau/Power BI
 Pandas
+
+
 Key Features
 Box Office & Financial Analysis: Analyzed earnings, budget trends, and profitability to determine what makes a movie financially successful.
 Actor & Production House Insights: Studied actors’ impact on ratings and revenue, along with the success of major production houses.
@@ -20,6 +25,9 @@ Collaboration Network Analysis: Explored actor-director and actor-actor collabor
 Audience Sentiment Analysis: Used ratings and reviews to understand audience sentiment toward different genres and movies.
 Dataset
 The dataset used in this analysis includes movie ratings, revenue, budgets, and streaming platform data.
+
+
 How to Use
+
 1.Clone this repository
 git clone https://github.com/your-username/movie-industry-analysis.git
